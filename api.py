@@ -16,4 +16,4 @@ def API():
 if __name__ == '__main__':
     modelfile = 'modelo_vinho.pickle'
     modelo = p.load(open(modelfile, 'rb'))
-    app.run(debug=True, host='0.0.0.0')
+    app.run(debug=True, host='0.0.0.0',port=8080)
