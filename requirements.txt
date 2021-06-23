@@ -2,4 +2,4 @@ Flask
 flask-restful
 numpy
 pandas
-scikit-learn
+scikit-learn==0.20.4
