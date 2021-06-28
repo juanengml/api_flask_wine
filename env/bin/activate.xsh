@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/leaozinho/Modelos/API_FLASK_MWINE/env"
+$VIRTUAL_ENV = r"/mnt/c/Users/2104944461/api_flask_wine/env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

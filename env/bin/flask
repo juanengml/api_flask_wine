@@ -1,4 +1,4 @@
-#!/home/leaozinho/Modelos/API_FLASK_MWINE/env/bin/python3
+#!/mnt/c/Users/2104944461/api_flask_wine/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

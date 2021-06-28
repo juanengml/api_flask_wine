@@ -1,2 +1,13 @@
-# api_flask_wine
-Brincadeira de Domingo atarde com wine e api flask ^_^
+# API CI CD - TRAIN TEST - DEPLOY
+
+## TRAIN 
+
+python train.py 
+
+## TEST
+
+python test.py
+
+## deploy 
+
+python api.py 
