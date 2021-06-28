@@ -1,4 +1,5 @@
-console-loggingFlask
+console-logging
+Flask
 Flask-RESTful
 joblib
 numpy
